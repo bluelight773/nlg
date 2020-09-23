@@ -5,7 +5,6 @@
       <excludeFolder url="file://$MODULE_DIR$/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/aitextgen" />
       <excludeFolder url="file://$MODULE_DIR$/large_models" />
-      <excludeFolder url="file://$MODULE_DIR$/small_models" />
       <excludeFolder url="file://$MODULE_DIR$/trained_model" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6 (nlg)" jdkType="Python SDK" />
