@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Text Generator</title>
+
+</head>
+<body>
+
+    <form method="post">
+    <p><input type="text" value="{{ request.form.prompt }}" placeholder="Prompt" name="prompt" maxlength="1000">
+    <input type="submit" value="Generate" id="text_gen_form_input">
+    </form>
+
+
+    <h3>{{ gen_html|safe }}</h3>
+</body>
+</html>
