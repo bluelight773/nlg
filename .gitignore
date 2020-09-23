@@ -1,6 +1,6 @@
 # Models/output
 aitextgen
-*.txt
+./*.txt
 large_models
 trained_model
 
