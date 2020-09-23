@@ -1,0 +1,18 @@
+9/23/20
+Xpom 1: basic setup
+Xpom 2: aitext gen
+Xpom 3:
+X4
+*5
+
+XTry to generate 1000
+XCPU model: finetune aitextgen
+~GPU mode
+~Saving model/s
+~Load model/s
+
+Flask
+AWS setup with Jupyter
+
+transformers
+transformers with pplm
