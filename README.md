@@ -1,4 +1,4 @@
-# nlg
+# GPT2 NLG
 # Overview
 This repo provides the functionality for:
 1. ```app.py```: A simple Flask web app that allows you to generate text with or without prompt based on a GPT2 model
